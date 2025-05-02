@@ -9,27 +9,18 @@
 <h3 align="center">{Seu-cargo-aqui} residente em {Cidade-Estado}/{País}.</h3>
 <p align="center">{Aqui-um-resumo-sobre-sua-carreira-com-5-linhas-no-máximo-e-lembre-de-destacar-seus-pontos-fortes-e-principais-tecnologias}</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=manualdofront&label=Visualizações%20no%20perfil&color=0e75b6&style=flat" alt="manualdofront" /> </p>
-
-> _🚨☝️ Lembre-se de trocar as citações por "manualdofront" no link acima pelo seu username do Github e remover esse comentário._
-
 - 🔭 Atualmente, eu trabalho na [Nome-da-empresa](https://site-da-empresa.com/).
 
-- 🌱 Meus estudos atuais focam em **Front End (Angular, JavaScript and TypeScript)** e **Application Design (Hexagonal Architecture)**.
+- 🌱 Meus estudos atuais focam em **Front End (JavaScript)** e **Back End (PHP)**, bem como, Banco de Dados **SQL**.
 
-- 📫 Este é meu e-mail para contato: **contatomanualdofront@gmail.com**
+- 📫 Este é meu e-mail para contato: **lucasrodrigueslopes1999@gmail.com**
 
 
 <h3 align="left">Linguagens e Ferramentas que domino:</h3>
 
-[![Minhas habilidades](https://skillicons.dev/icons?i=js,html,css,angular)]()
-
-> _🚨☝️ Encontre uma lista completa de ícones e opções para adicionar suas habilidades [nesse link](https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list)._
-
+[![Minhas habilidades](https://skillicons.dev/icons?i=js,html,css,php,git,github,jquery,mysql)]()
 
 <h3 align="left">Entre em contato comigo:</h3>
 
-[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/manualdofront/)
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:contatomanualdofront@gmail.com)
-
-> _🚨☝️ Encontre uma lista completa de ícones e opções para adicionar seus contatos [nesse link](https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list). **Lembre-se de atualizar os links para SUAS redes sociais!**_
+[![Linkedin](https://skillicons.dev/icons?i=linkedin)]([https://www.linkedin.com/in/manualdofront/](https://www.linkedin.com/in/lucas-rodrigues-lopes-bb6b81190/))
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:lucasrodrigueslopes1999@gmail.com)
