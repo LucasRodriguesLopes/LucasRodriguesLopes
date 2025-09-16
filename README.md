@@ -3,9 +3,8 @@
 </div>
 
 <h1 align="center">Olá, Eu sou Lucas Rodrigues Lopes</h1>
-<p align="center">{Aqui-um-resumo-sobre-sua-carreira-com-5-linhas-no-máximo-e-lembre-de-destacar-seus-pontos-fortes-e-principais-tecnologias}</p>
 
-- 🌱 Meus estudos atuais focam em **Front End (JavaScript)** e **Back End (PHP)**, bem como, Banco de Dados **SQL**.
+- 🌱 Meus estudos atuais focam em **Front End (JavaScript)** e **Back End (PHP)**, bem como, Banco de Dados **MySQL**.
 
 - 📫 Este é meu e-mail para contato: **lucasrodrigueslopes1999@gmail.com**
 
