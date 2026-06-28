@@ -10,7 +10,7 @@
 
 <h3 align="left">Linguagens e Ferramentas que domino:</h3>
 
-[![Minhas habilidades](https://skillicons.dev/icons?i=js,html,css,php,git,github,jquery,mysql)]()
+[![Minhas habilidades](https://skillicons.dev/icons?i=js,html,css,php,git,github,mysql)]()
 
 <h3 align="left">Entre em contato comigo:</h3>
 
